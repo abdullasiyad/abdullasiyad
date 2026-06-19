@@ -1,24 +1,23 @@
-<header>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Abdulla+Siyad&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Software+Engineer+%7C+Java+Full+Stack+%7C+AI+%26+Computer+Vision&descAlignY=62&descSize=18&descColor=70a5fd" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,50:16213e,100:0f3460&amp;height=200&amp;section=header&amp;text=Abdulla+Siyad&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=36&amp;desc=Software+Engineer+%7C+Java+Full+Stack+%7C+AI+%26+Computer+Vision&amp;descAlignY=62&amp;descSize=18&amp;descColor=70a5fd" width="100%" alt="Header"/>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=false&width=750&lines=Hey+there%2C+I+am+Abdulla+Siyad!;Java+Full+Stack+Developer;AI+and+Computer+Vision+Engineer;AWS+Certified+%7C+CS50x+Graduate;Building+Tomorrows+Solutions+Today" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=26&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=750&amp;lines=Hey+there%2C+I+am+Abdulla+Siyad!;Java+Full+Stack+Developer;AI+and+Computer+Vision+Engineer;AWS+Certified+%7C+CS50x+Graduate;Building+Tomorrows+Solutions+Today" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdullasiyad&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abdullasiyad&amp;style=flat-square&amp;color=70a5fd&amp;label=Profile+Views" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/abdullasiyad">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:abdullasiyad.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/abdullasiyad">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" />
   </a>
 </div>
 
@@ -27,7 +26,7 @@
 ## 🧑‍💻 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=38BDAE&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Java+Full+Stack;AI+%7C+Computer+Vision+%7C+Deep+Learning;AWS+Certified+%7C+CS50x+Graduate;Based+in+Bangalore%2C+Karnataka%2C+India;Build.+Learn.+Iterate.+Ship." alt="About Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=15&amp;duration=2500&amp;pause=800&amp;color=38BDAE&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Software+Engineer+%7C+Java+Full+Stack;AI+%7C+Computer+Vision+%7C+Deep+Learning;AWS+Certified+%7C+CS50x+Graduate;Based+in+Bangalore%2C+Karnataka%2C+India;Build.+Learn.+Iterate.+Ship." alt="About Typing" />
 </div>
 
 <br/>
@@ -133,10 +132,10 @@
 
 <div align="center">
   <a href="https://github.com/abdullasiyad">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullasiyad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullasiyad&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/abdullasiyad">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullasiyad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullasiyad&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10" alt="Top Languages" />
   </a>
 </div>
 
@@ -145,7 +144,7 @@
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=abdullasiyad&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=abdullasiyad&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10" alt="GitHub Streak" />
 </div>
 
 ---
@@ -153,7 +152,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullasiyad&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullasiyad&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 ---
@@ -161,7 +160,7 @@
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdullasiyad&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abdullasiyad&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -253,5 +252,5 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&animation=twinkling" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f3460,50:16213e,100:1a1a2e&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%" alt="Footer"/>
 </p>
