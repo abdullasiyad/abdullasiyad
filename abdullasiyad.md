@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,50:16213e,100:0f3460&amp;height=200&amp;section=header&amp;text=Abdulla+Siyad&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=36&amp;desc=Software+Engineer+%7C+Java+Full+Stack+%7C+AI+%26+Computer+Vision&amp;descAlignY=62&amp;descSize=18&amp;descColor=70a5fd" width="100%" alt="Header"/>
-</p>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=26&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=750&amp;lines=Hey+there%2C+I+am+Abdulla+Siyad!;Java+Full+Stack+Developer;AI+and+Computer+Vision+Engineer;AWS+Certified+%7C+CS50x+Graduate;Building+Tomorrows+Solutions+Today" alt="Typing SVG" />
 </div>
