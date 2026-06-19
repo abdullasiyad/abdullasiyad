@@ -28,37 +28,55 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=38BDAE&center=true&vCenter=true&width=700&lines=🚀+Software+Engineer+%7C+Java+Full+Stack;🤖+AI+%7C+Computer+Vision+%7C+Deep+Learning;☁️+AWS+Certified+%7C+CS50x+Graduate;📍+Bangalore%2C+Karnataka%2C+India;💡+Build.+Learn.+Iterate.+Ship." alt="About Typing" />
+</div>
 
-```java
-public class AbdullaSiyad {
+<br/>
 
-    final String name     = "Abdulla Siyad";
-    final String role     = "Software Engineer Intern @ JSpiders";
-    final String location = "Bangalore, Karnataka, India";
-    final String degree   = "B.E. CSE — P.A College of Engineering (2026)";
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
 
-    String[] techStack = {
-        "Java", "Spring Boot", "Python",
-        "MySQL", "REST APIs", "HTML/CSS/JS"
-    };
+### 👤 Who Am I?
+🎓 &nbsp; Final-year **B.E. CSE** student at P.A College of Engineering, VTU (2026)<br/>
+💼 &nbsp; **Software Engineer Intern** @ JSpiders, Bangalore<br/>
+📍 &nbsp; Based in **Bangalore, Karnataka, India**<br/>
+☁️ &nbsp; **AWS Certified Developer** | CS50x Graduate<br/>
+🐝 &nbsp; Built a real-time bee surveillance system with **YOLOv8 + LSTM**<br/>
+💡 &nbsp; Passionate about **Full Stack**, **AI/ML**, and **Clean Code**<br/>
 
-    String[] currentlyLearning = {
-        "System Design (HLD + LLD)",
-        "Advanced DSA",
-        "AWS Cloud Architecture",
-        "Transformers & LLMs"
-    };
+</td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" alt="Coding GIF"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
 
-    String funFact = "I trained YOLOv8 to watch bees 🐝";
+### ⚡ Quick Facts
+- 🔭 &nbsp; Currently working on **Java Spring Boot** projects
+- 🌱 &nbsp; Learning **System Design**, **DSA**, **AWS Architecture**
+- 🤖 &nbsp; Exploring **Transformers & LLMs**
+- 🏆 &nbsp; **85% accuracy** on 2,500+ labeled AI samples
+- 🎯 &nbsp; Goal: Land a **Full Stack / AI Engineer** role
+- 🎲 &nbsp; Fun fact: I trained a model to watch bees 🐝
 
-    String motto() {
-        return "Build. Learn. Iterate. Ship. 🚀";
-    }
-}
+</td>
+    <td valign="top">
+
+### 🧠 Currently Mastering
+```
+🏗️  System Design    →  HLD, LLD, Patterns
+⚡  Advanced DSA     →  Graphs, DP, Trees
+☁️  AWS Cloud        →  Serverless, Microservices
+🤖  Deep Learning    →  Transformers, LLMs
+🔒  Spring Security  →  JWT, OAuth2
 ```
 
-<br clear="right"/>
+</td>
+  </tr>
+</table>
 
 ---
 
@@ -226,17 +244,6 @@ public class AbdullaSiyad {
 
 ---
 
-## 📚 Currently Learning
-
-```
-🏗️  System Design       →  HLD, LLD, Scalability Patterns, Caching
-⚡  Advanced DSA        →  Graphs, Dynamic Programming, Segment Trees
-☁️  Cloud Architecture  →  AWS Services, Serverless, Microservices
-🤖  Deep Learning       →  Transformers, Attention Mechanisms, LLMs
-🔒  Spring Security     →  JWT, OAuth2, Role-Based Access Control
-```
-
----
 
 ## 🤝 Let's Connect
 
