@@ -1,5 +1,5 @@
 <h1 align="center">Abdulla Siyad</h1>
-<h3 align="center">Java Full Stack Developer | AI & Computer Vision Engineer</h3>
+<h3 align="center">Software Engineer Intern | Java Full Stack | AI & Computer Vision>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OPEN%20TO-WORK-00ff88?style=for-the-badge&labelColor=0d1117" alt="Open to Work" />
