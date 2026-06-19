@@ -1,7 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abdulla%20Siyad&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%7C%20Java%20Full%20Stack%20%7C%20AI%20%26%20Computer%20Vision&descAlignY=62&descSize=18" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Abdulla+Siyad&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Software+Engineer+%7C+Java+Full+Stack+%7C+AI+%26+Computer+Vision&descAlignY=62&descSize=18&descColor=70a5fd" width="100%"/>
+</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I%27m+Abdulla+Siyad+%F0%9F%91%8B;Java+Full+Stack+Developer;AI+%7C+Computer+Vision+Engineer;AWS+Certified+%7C+CS50x+Graduate;Building+Tomorrow%27s+Solutions+Today+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=false&width=750&lines=Hey+there%2C+I+am+Abdulla+Siyad!;Java+Full+Stack+Developer;AI+and+Computer+Vision+Engineer;AWS+Certified+%7C+CS50x+Graduate;Building+Tomorrows+Solutions+Today" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -29,7 +31,7 @@
 ## 🧑‍💻 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=38BDAE&center=true&vCenter=true&width=700&lines=🚀+Software+Engineer+%7C+Java+Full+Stack;🤖+AI+%7C+Computer+Vision+%7C+Deep+Learning;☁️+AWS+Certified+%7C+CS50x+Graduate;📍+Bangalore%2C+Karnataka%2C+India;💡+Build.+Learn.+Iterate.+Ship." alt="About Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=38BDAE&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Java+Full+Stack;AI+%7C+Computer+Vision+%7C+Deep+Learning;AWS+Certified+%7C+CS50x+Graduate;Based+in+Bangalore%2C+Karnataka%2C+India;Build.+Learn.+Iterate.+Ship." alt="About Typing" />
 </div>
 
 <br/>
@@ -196,7 +198,7 @@
 |:--------|:------|:-----------|
 | 🐝 **Object Detection & Behavior Analysis** | Python · YOLOv8 · OpenCV · TensorFlow · PyTorch · LSTM | Real-time surveillance system with LSTM-based behavior classification — **~85% accuracy** across **2,500+ labeled samples** · *Team Lead* |
 | 🌾 **Agriculture Management Platform** | PHP · HTML · CSS · JavaScript | Full-stack marketplace connecting farmers and consumers with responsive UI and scalable backend |
-| 📚 **Student Management System** | Java · Spring Boot · MySQL · REST APIs | Backend system with full CRUD, MVC architecture, OOP & DBMS principles for efficient data management |
+| 📚 **Student Management System** | Java · Spring Boot · MySQL · REST APIs | Backend system with full CRUD, MVC architecture, OOP and DBMS concepts for efficient data management |
 
 </div>
 
@@ -244,7 +246,6 @@
 
 ---
 
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -259,4 +260,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&animation=twinkling" width="100%"/>
+</p>
