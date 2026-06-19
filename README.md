@@ -1,53 +1,56 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdulla%20Siyad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Java%20Full%20Stack%20%7C%20AI%20%26%20Computer%20Vision%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abdulla%20Siyad&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%7C%20Java%20Full%20Stack%20%7C%20AI%20%26%20Computer%20Vision&descAlignY=62&descSize=18" width="100%"/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Abdulla+Siyad+%F0%9F%91%8B;Java+Full+Stack+Developer;AI+%7C+Computer+Vision+Engineer;AWS+Certified+%7C+CS50x+Graduate;Building+Tomorrow's+Solutions+Today" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I%27m+Abdulla+Siyad+%F0%9F%91%8B;Java+Full+Stack+Developer;AI+%7C+Computer+Vision+Engineer;AWS+Certified+%7C+CS50x+Graduate;Building+Tomorrow%27s+Solutions+Today+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=abdullasiyad&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
+  &nbsp;
   <a href="https://www.linkedin.com/in/abdullasiyad">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="mailto:abdullasiyad.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  &nbsp;
   <a href="https://github.com/abdullasiyad">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
+<br/>
+
 ---
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```java
 public class AbdullaSiyad {
 
-    String name        = "Abdulla Siyad";
-    String location    = "Bangalore, Karnataka, India";
-    String degree      = "B.E. Computer Science — P.A College of Engineering (2022–2026)";
-    String role        = "Software Engineer Intern @ JSpiders";
+    final String name     = "Abdulla Siyad";
+    final String role     = "Software Engineer Intern @ JSpiders";
+    final String location = "Bangalore, Karnataka, India";
+    final String degree   = "B.E. CSE — P.A College of Engineering (2026)";
 
-    String[] stack = {
+    String[] techStack = {
         "Java", "Spring Boot", "Python",
         "MySQL", "REST APIs", "HTML/CSS/JS"
     };
 
     String[] currentlyLearning = {
-        "System Design",
+        "System Design (HLD + LLD)",
         "Advanced DSA",
-        "Cloud Architecture (AWS)",
-        "Deep Learning & Computer Vision"
+        "AWS Cloud Architecture",
+        "Transformers & LLMs"
     };
 
-    String funFact = "I trained a YOLOv8 model to watch bees 🐝";
+    String funFact = "I trained YOLOv8 to watch bees 🐝";
 
     String motto() {
         return "Build. Learn. Iterate. Ship. 🚀";
@@ -131,7 +134,7 @@ public class AbdullaSiyad {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullasiyad&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullasiyad&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 </div>
 
 ---
@@ -139,7 +142,7 @@ public class AbdullaSiyad {
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Siyadmjr&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abdullasiyad&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -147,7 +150,9 @@ public class AbdullaSiyad {
 ## 💼 Work Experience
 
 <details>
-<summary><b>🏢 JSpiders — Software Engineer Intern (Java Full Stack) | Feb 2026 – Present | Bangalore, India</b></summary>
+<summary><b>🏢 JSpiders &nbsp;|&nbsp; Software Engineer Intern — Java Full Stack &nbsp;|&nbsp; Feb 2026 – Present &nbsp;|&nbsp; Bangalore, India</b></summary>
+
+<br/>
 
 > ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 > ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -157,9 +162,9 @@ public class AbdullaSiyad {
 > ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 - Developed production-grade web applications using **Java, Spring Boot, HTML, CSS, and JavaScript**, implementing RESTful APIs end-to-end.
-- Performed SQL/CRUD operations with **MySQL**, applying OOP, DSA, and DBMS principles to design scalable and maintainable backend solutions.
-- Collaborated in an **Agile/Scrum** environment with Git/GitHub for version control, handling debugging, testing, and basic AWS deployment tasks.
-- Gained hands-on experience in **MVC Architecture** and industry-standard software engineering practices in a real-world team setting.
+- Executed SQL/CRUD operations with **MySQL**, applying OOP, DSA, and DBMS principles to architect scalable and maintainable backend systems.
+- Collaborated in an **Agile/Scrum** team using Git/GitHub for version control, with responsibilities spanning debugging, testing, and basic AWS deployment.
+- Applied **MVC Architecture** and industry-standard engineering practices in a professional team environment.
 
 </details>
 
@@ -170,40 +175,38 @@ public class AbdullaSiyad {
 <div align="center">
 
 | Project | Stack | Highlights |
-|---------|-------|------------|
-| [🐝 Object Detection & Behavior Analysis](https://github.com/abdullasiyad) | Python · YOLOv8 · OpenCV · TensorFlow · PyTorch · LSTM | Real-time bee surveillance system; LSTM-based behavior classification achieving **~85% accuracy** on **2,500+ labeled samples**; led as Team Lead |
-| [🌾 Agriculture Management Platform](https://github.com/abdullasiyad) | PHP · HTML · CSS · JavaScript | Full-stack web platform connecting farmers and consumers for seamless produce transactions with responsive UI and scalable backend |
-| [📚 Student Management System](https://github.com/abdullasiyad) | Java · Spring Boot · MySQL · REST APIs | Backend application with full CRUD operations, MVC architecture, OOP, and DBMS concepts for efficient student data management |
+|:--------|:------|:-----------|
+| 🐝 **Object Detection & Behavior Analysis** | Python · YOLOv8 · OpenCV · TensorFlow · PyTorch · LSTM | Real-time surveillance system with LSTM-based behavior classification — **~85% accuracy** across **2,500+ labeled samples** · *Team Lead* |
+| 🌾 **Agriculture Management Platform** | PHP · HTML · CSS · JavaScript | Full-stack marketplace connecting farmers and consumers with responsive UI and scalable backend |
+| 📚 **Student Management System** | Java · Spring Boot · MySQL · REST APIs | Backend system with full CRUD, MVC architecture, OOP & DBMS principles for efficient data management |
+
+</div>
+
+### 🤖 IoT Projects
+
+<div align="center">
+
+| Project | Tech | Description |
+|:--------|:-----|:------------|
+| 🚗 RC Car | Arduino · Voice Recognition | Remote-controlled car with voice-guided navigation and real-time obstacle detection |
+| 💧 Turbidity Sensing Device | Arduino · Sensors | Low-cost water quality measurement system for environmental monitoring |
+| 📡 Ultrasonic Radar System | Arduino · Ultrasonic · Processing | Object detection with distance measurement and real-time data visualization |
 
 </div>
 
 ---
 
-## 🤖 IoT Projects
+## 🏅 Certifications & Achievements
 
 <div align="center">
 
-| Project | Description |
-|---------|-------------|
-| 🚗 RC Car with Arduino | Remote-controlled car with **voice recognition navigation** and real-time obstacle detection |
-| 💧 Turbidity Sensing Device | Low-cost water turbidity measurement system for environmental monitoring |
-| 📡 Ultrasonic Radar System | Object detection system to measure distance and **visualize data in real time** |
-
-</div>
-
----
-
-## 🏅 Achievements & Certifications
-
-<div align="center">
-
-| 🏆 | Achievement | Details |
-|----|-------------|---------|
-| ☁️ | **AWS Certified Developer** | Infosys Springboard — 2025 |
-| 🎓 | **CS50x: Introduction to Computer Science** | Harvard University via edX — 2023 |
-| 🐍 | **Python Programming Certification** | IIT Bombay — 2023 |
-| 🌐 | **Basics of Networking** | Cisco Networking Academy — 2024 |
-| 🪪 | **Domestic Biometric Data Operator (Level 4)** | Skill India · NSDC · NASSCOM · IT–ITeS Sector — 2020 |
+| &nbsp; | Certification | Issuer | Year |
+|:------:|:--------------|:-------|:----:|
+| ☁️ | **AWS Certified Developer** | Infosys Springboard | 2025 |
+| 🎓 | **CS50x: Introduction to Computer Science** | Harvard University (edX) | 2023 |
+| 🐍 | **Python Programming** | IIT Bombay | 2023 |
+| 🌐 | **Basics of Networking** | Cisco Networking Academy | 2024 |
+| 🪪 | **Domestic Biometric Data Operator — Level 4** | Skill India · NSDC · NASSCOM | 2020 |
 
 </div>
 
@@ -213,11 +216,11 @@ public class AbdullaSiyad {
 
 <div align="center">
 
-| Degree | Institution | Year | Score |
-|--------|-------------|------|-------|
-| B.E. — Computer Science & Engineering | P.A College of Engineering, VTU | 2022 – 2026 | Final Year |
-| Vocational Higher Secondary Education (VHSE) | GVHSS Kunjathur | 2018 – 2020 | 80% |
-| SSLC | Sirajul Huda English Medium High School | 2017 – 2018 | 88% |
+| Degree | Institution | Period | Score |
+|:-------|:------------|:------:|:-----:|
+| 🎓 B.E. — Computer Science & Engineering | P.A College of Engineering, VTU | 2022 – 2026 | Final Year |
+| 📘 Vocational Higher Secondary (VHSE) | GVHSS Kunjathur | 2018 – 2020 | 80% |
+| 📗 SSLC | Sirajul Huda English Medium High School | 2017 – 2018 | 88% |
 
 </div>
 
@@ -226,11 +229,11 @@ public class AbdullaSiyad {
 ## 📚 Currently Learning
 
 ```
-🏗️  System Design          →  HLD, LLD, Scalability Patterns
-⚡  Advanced DSA           →  Graphs, DP, Segment Trees
-☁️  Cloud Architecture     →  AWS Services, Serverless, Microservices
-🤖  Deep Learning          →  Transformers, Attention Mechanisms, LLMs
-🔒  Spring Security        →  JWT, OAuth2, Role-Based Access Control
+🏗️  System Design       →  HLD, LLD, Scalability Patterns, Caching
+⚡  Advanced DSA        →  Graphs, Dynamic Programming, Segment Trees
+☁️  Cloud Architecture  →  AWS Services, Serverless, Microservices
+🤖  Deep Learning       →  Transformers, Attention Mechanisms, LLMs
+🔒  Spring Security     →  JWT, OAuth2, Role-Based Access Control
 ```
 
 ---
@@ -241,7 +244,9 @@ public class AbdullaSiyad {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullasiyad)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullasiyad)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullasiyad.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullasiyad.dev@gmail.com)
+
+<br/>
 
 *"The best way to predict the future is to build it."*
 
