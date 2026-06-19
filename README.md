@@ -1,149 +1,177 @@
 <!--
-Recommended folder structure:
-.
-├── README.md
-└── assets
-    ├── banner.png            <-- optional local banner
-    └── coding.gif            <-- optional local gif
+Folder structure to use:
+
+README.md
+assets/
+  hacker-banner.gif
+  terminal.gif
+  matrix.gif
+  code-dark.gif
 -->
 
-<h1 align="center">Abdulla Siyad</h1>
-<h3 align="center">Java Full Stack Developer | AI & Computer Vision Engineer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdullasiyad" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:abdullasiyad.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/abdullasiyad" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<img src="./assets/hacker-banner.gif" alt="Hacker banner" width="100%" />
 
-<!-- Option 1: local banner image stored in your repo -->
-<!--
-<p align="center">
-  <img src="./assets/banner.png" alt="Abdulla Siyad Banner" width="100%" />
-</p>
--->
+# `Abdulla Siyad`
 
-<!-- Option 2: simple text intro only -->
-<p align="center">
-  Final year B.E. CSE student • Software Engineer Intern • AWS Certified • CS50x Graduate
-</p>
+### `Java Full Stack Developer` • `AI & Computer Vision Engineer`
+
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff88?style=for-the-badge&labelColor=0d1117" alt="Open to work" />
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20%7C%20AI-39ff14?style=for-the-badge&labelColor=0d1117" alt="Focus" />
+<img src="https://img.shields.io/badge/LOCATION-INDIA-00c2ff?style=for-the-badge&labelColor=0d1117" alt="Location" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/abdullasiyad" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:abdullasiyad.dev@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://github.com/abdullasiyad" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
 
 ---
 
-## About Me
+## `whoami`
+
+```bash
+name: Abdulla Siyad
+role: Software Engineer | Java Full Stack Developer | AI Engineer
+education: Final Year B.E. CSE @ P.A. College of Engineering, VTU (2026)
+current_work: Software Engineer Intern @ JSpiders, Bangalore
+certifications: AWS Certified Developer | CS50x Graduate
+interests: Full Stack Development, AI/ML, Computer Vision, System Design
+goal: Full Stack / AI Engineer role
+```
+
+---
+
+## `about_me`
 
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="58%">
 
-- 🎓 Final year **B.E. Computer Science & Engineering** student at **P.A. College of Engineering, VTU (2026)**
-- 💼 **Software Engineer Intern** at **JSpiders, Bangalore**
-- 📍 Based in **Bangalore, Karnataka, India**
-- ☁️ **AWS Certified Developer** and **CS50x Graduate**
-- 🤖 Interested in **Full Stack Development**, **AI/ML**, and **Computer Vision**
-- 🐝 Built a real-time bee surveillance system using **YOLOv8 + LSTM**
-- 🎯 Targeting **Full Stack Developer / AI Engineer** roles
+- Final year **Computer Science and Engineering** student with hands-on experience in backend development, REST APIs, and AI-based applications.
+- Strong foundation in **Java, Spring Boot, MySQL, HTML, CSS, JavaScript, and Python**.
+- Built a real-time **bee surveillance and behavior analysis system** using **YOLOv8 + LSTM**.
+- Interested in building scalable software with clean architecture and practical machine learning solutions.
+- Currently improving **DSA**, **System Design**, **AWS**, and **Spring Security**.
 
 </td>
-    <td align="center" valign="top" width="40%">
-
-<!-- Use a local GIF for better reliability -->
-<!-- <img src="./assets/coding.gif" alt="Coding animation" width="280" /> -->
-
-</td>
+    <td align="center" valign="top" width="42%">
+      <img src="./assets/terminal.gif" alt="Terminal hacker gif" width="100%" />
+    </td>
   </tr>
 </table>
 
-## Current Focus
+---
 
-- 🔭 Building projects with **Java Spring Boot**
-- 🌱 Learning **System Design**, **Advanced DSA**, and **AWS Architecture**
-- 🤖 Exploring **Transformers** and **LLMs**
-- 🏆 Achieved **~85% accuracy** on **2,500+ labeled AI samples**
-- 🚀 Working toward a strong **software engineering** career in full stack and AI
+## `currently_loading`
+
+- Building **Java Spring Boot** applications
+- Learning **System Design**, **Advanced DSA**, and **AWS Architecture**
+- Exploring **Transformers**, **LLMs**, and deep learning workflows
+- Improving production-ready backend engineering skills
+- Preparing for **Full Stack Developer** and **AI Engineer** opportunities
+
+<div align="center">
+  <img src="./assets/matrix.gif" alt="Matrix code animation" width="85%" />
+</div>
 
 ---
 
-## Tech Stack
+## `tech_stack`
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Backend & Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC%20Architecture-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+### Backend and Frameworks
+![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIS-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC_ARCHITECTURE-0078D4?style=for-the-badge&logoColor=white)
 
 ### AI / ML / Computer Vision
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+### Cloud and DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+### Database and Tools
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Anaconda](https://img.shields.io/badge/ANACONDA-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Arduino](https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-## Experience
+## `experience.log`
 
-### JSpiders | Software Engineer Intern — Java Full Stack  
+### `JSpiders` — Software Engineer Intern  
 **Feb 2026 – Present | Bangalore, India**
 
-- Developed web applications using **Java, Spring Boot, HTML, CSS, and JavaScript**
-- Built and integrated **RESTful APIs**
-- Performed **SQL/CRUD operations** with **MySQL**
-- Worked with **OOP, DSA, DBMS**, and **MVC architecture**
-- Collaborated in an **Agile/Scrum** environment using **Git/GitHub**
-- Assisted with debugging, testing, and basic **AWS deployment**
+```txt
+> Developed production-grade web applications using Java, Spring Boot,
+  HTML, CSS, and JavaScript.
+
+> Built and integrated RESTful APIs and backend modules.
+
+> Worked with MySQL for SQL/CRUD operations and backend data handling.
+
+> Applied OOP, DSA, DBMS, and MVC concepts in practical development.
+
+> Collaborated using Git/GitHub in an Agile/Scrum workflow.
+
+> Assisted with debugging, testing, and basic AWS deployment tasks.
+```
 
 ---
 
-## Featured Projects
+## `featured_projects`
 
-| Project | Stack | Highlights |
+| Project | Stack | Description |
 |:--|:--|:--|
-| **Object Detection & Behavior Analysis** | Python, YOLOv8, OpenCV, TensorFlow, PyTorch, LSTM | Real-time bee surveillance system with behavior classification and ~85% accuracy across 2,500+ labeled samples |
-| **Agriculture Management Platform** | PHP, HTML, CSS, JavaScript | Marketplace platform connecting farmers and consumers with responsive UI |
-| **Student Management System** | Java, Spring Boot, MySQL, REST APIs | CRUD backend application built with MVC architecture and DBMS concepts |
+| **Object Detection & Behavior Analysis** | Python, YOLOv8, OpenCV, TensorFlow, PyTorch, LSTM | Real-time bee surveillance system with behavior classification and ~85% accuracy on 2,500+ labeled samples |
+| **Agriculture Management Platform** | PHP, HTML, CSS, JavaScript | Marketplace platform connecting farmers and consumers |
+| **Student Management System** | Java, Spring Boot, MySQL, REST APIs | CRUD backend system using MVC architecture and DBMS concepts |
 
-## IoT Projects
+<div align="center">
+  <img src="./assets/code-dark.gif" alt="Dark code gif" width="70%" />
+</div>
+
+---
+
+## `iot_projects`
 
 | Project | Tech | Description |
 |:--|:--|:--|
-| **RC Car** | Arduino, Voice Recognition | Voice-guided remote control with obstacle awareness |
-| **Turbidity Sensing Device** | Arduino, Sensors | Low-cost water quality monitoring system |
-| **Ultrasonic Radar System** | Arduino, Ultrasonic, Processing | Object detection with distance measurement and live visualization |
+| **RC Car** | Arduino, Voice Recognition | Voice-guided navigation with obstacle awareness |
+| **Turbidity Sensing Device** | Arduino, Sensors | Water quality monitoring system |
+| **Ultrasonic Radar System** | Arduino, Ultrasonic, Processing | Distance measurement and real-time visualization |
 
 ---
 
-## Certifications
+## `certifications`
 
 | Certification | Issuer | Year |
 |:--|:--|:--:|
@@ -155,40 +183,44 @@ Recommended folder structure:
 
 ---
 
-## Education
+## `education`
 
-| Degree | Institution | Period | Score |
+| Qualification | Institution | Period | Result |
 |:--|:--|:--:|:--:|
 | B.E. Computer Science & Engineering | P.A. College of Engineering, VTU | 2022 – 2026 | Final Year |
-| Vocational Higher Secondary (VHSE) | GVHSS Kunjathur | 2018 – 2020 | 80% |
+| Vocational Higher Secondary | GVHSS Kunjathur | 2018 – 2020 | 80% |
 | SSLC | Sirajul Huda English Medium High School | 2017 – 2018 | 88% |
 
 ---
 
-## GitHub Stats
+## `github_stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullasiyad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullasiyad&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullasiyad&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullasiyad&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top languages" height="170" />
 </p>
 
-<!-- Optional: keep only if it works consistently for you -->
+<!-- Optional: enable only if it works well for you -->
 <!--
-## GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdullasiyad&theme=tokyonight-duo&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=abdullasiyad&theme=chartreuse-dark&hide_border=true" alt="GitHub streak" />
 </p>
 -->
 
 ---
 
-## Connect With Me
+## `connect.sh`
 
-<p align="left">
+```bash
+linkedin="https://www.linkedin.com/in/abdullasiyad"
+github="https://github.com/abdullasiyad"
+email="abdullasiyad.dev@gmail.com"
+
+echo "Let's build something meaningful."
+```
+
+<div align="center">
   <a href="https://www.linkedin.com/in/abdullasiyad" target="_blank" rel="noopener noreferrer">LinkedIn</a> •
   <a href="https://github.com/abdullasiyad" target="_blank" rel="noopener noreferrer">GitHub</a> •
   <a href="mailto:abdullasiyad.dev@gmail.com">Email</a>
-</p>
-
-> "The best way to predict the future is to build it."
+</div>
